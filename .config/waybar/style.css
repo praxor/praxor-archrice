@@ -1,0 +1,22 @@
+#clock {
+    background-color: rgba(10,10,10,1);
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+window#waybar {
+    background-color: rgba(10,10,10,1);
+    font-family: Consolas, monospace;
+    border-bottom: 3px solid rgba(0,0,0,1);
+    background: linear-gradient(120deg, rgb(14,14,14) 0%, rgb(34,34,34) 100%);
+    color: #f0f0f0;
+}
+
+#tags button.focused {
+    color: #fff;
+    background-color: rgba(104,34,179,0.3);
+}
+
+#tags button:hover {
+    background-color: rgba(104,34,179,0.5);
+}
