@@ -1,8 +1,0 @@
-2023/11/05-16:40:10.798 3107 Creating DB /home/praxor/.config/VencordDesktop/Local Storage/leveldb since it was missing.
-2023/11/05-16:40:10.815 3107 Reusing MANIFEST /home/praxor/.config/VencordDesktop/Local Storage/leveldb/MANIFEST-000001
-2023/11/05-16:46:05.204 3117 Level-0 table #5: started
-2023/11/05-16:46:05.237 3117 Level-0 table #5: 2142849 bytes OK
-2023/11/05-16:46:05.244 3117 Delete type=0 #3
-2023/11/05-16:47:48.570 3107 Level-0 table #7: started
-2023/11/05-16:47:48.727 3107 Level-0 table #7: 2522094 bytes OK
-2023/11/05-16:47:48.733 3107 Delete type=0 #4
